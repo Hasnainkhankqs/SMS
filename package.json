@@ -1,0 +1,22 @@
+{
+  "name": "school_management_system",
+  "version": "1.0.0",
+  "description": "A school management system using MEAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasnainkhankqs/SMS.git"
+  },
+  "keywords": [
+    "School"
+  ],
+  "author": "Hasnain Khan kqs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasnainkhankqs/SMS/issues"
+  },
+  "homepage": "https://github.com/Hasnainkhankqs/SMS#readme"
+}
